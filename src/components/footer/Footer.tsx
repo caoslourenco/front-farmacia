@@ -4,7 +4,7 @@ function Footer() {
 
   return (
     <>
-        <div className="flex justify-center bg-red-600 text-white">
+        <div className="flex justify-center bg-[#80b1f6]  text-white">
           <div className="container flex flex-col items-center py-4">
             <p className='text-xl font-bold'> Generation 2024 </p>
             <p className='text-lg'>Entre em contato</p>

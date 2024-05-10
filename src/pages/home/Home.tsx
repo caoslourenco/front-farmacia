@@ -7,11 +7,11 @@ function Home() {
         <div className='container grid grid-cols-1 text-black mt-6' >
             <div className="flex flex-col gap-4 items-center justify-center py-4">
             <h2 className='text-5xl font-bold'>Farmácia Generation</h2>
-            <p className='text-xl'>Inovação em saúde. Medicamentos para sua família.</p>
+            <p className='text-xl'> Inovação em saúde para toda a família.</p>
 
             <div className="flex justify-around gap-4">
             
-                <button className='rounded bg-[#282424]  text-white py-2 px-4'>Ver produtos</button>
+                <button className='rounded bg-[#5a7cac]  text-white py-2 px-4'>Ver produtos</button>
             </div>
             </div>
 
